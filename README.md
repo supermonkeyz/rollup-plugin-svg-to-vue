@@ -1,4 +1,7 @@
-# Rollup Plugin Svg To Vue
+# Rollup Plugin Svg To Vue [![Build Status][ci-img]][ci]
+
+[ci-img]: https://circleci.com/gh/supermonkeyz/rollup-plugin-svg-to-vue.svg?style=svg
+[ci]: https://app.circleci.com/pipelines/github/supermonkeyz/rollup-plugin-svg-to-vue
 
 A plugin roll svg files as a Vue 3 component.
 
