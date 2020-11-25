@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-svg-to-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Roll svg to Vue 3 component with Rollup",
   "main": "dist/rollup-plugin-svg-to-vue.cjs.js",
   "module": "dist/rollup-plugin-svg-to-vue.esm.js",
