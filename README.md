@@ -34,5 +34,6 @@ export default {
     /* svgo options*/
   } // default {}
   sourceMap: false; // default false
+  target: 'browser'; // or 'node' for ssr
 }
 ```
