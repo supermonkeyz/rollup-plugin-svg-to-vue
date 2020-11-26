@@ -15,6 +15,7 @@ const config = {
     },
   ],
   external: [
+    'path',
     ...Object.keys(pkg.dependencies),
     ...Object.keys(pkg.peerDependencies),
   ],
